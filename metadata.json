@@ -1,0 +1,6 @@
+{
+  "name": "World Music Champion System",
+  "description": "A decentralized, distributed cultural intelligence operating system for creating competition-grade music.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
